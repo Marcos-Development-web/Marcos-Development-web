@@ -1,15 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=221133&height=150&section=header&text=Marcos+Reus&fontSize=30&fontColor=f3f3f3&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d8d8d8&height=160&section=header&text=Marcelo+Abreu&fontSize=40&fontColor=606486&animation=twinkling&fontAlignY=35"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8286a9&size=45&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Marcelo+Abreu+🚀;Seja+Bem+Vindo+(a)!+:%29)](https://git.io/typing-svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d8d8d8&height=130&section=footer"/>
  
-
-
-
-- 👋 Hi, I’m @Marcoshhfhfhf
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Marcoshhfhfhf/Marcoshhfhfhf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
