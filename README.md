@@ -9,6 +9,8 @@
 <a href="https://github.com/Marcos-Development-web">
 <img  align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Development-web&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/> 
 </div>
+<br>
+<div align="center">
 <img  align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcos-Development-web&theme=graywhite&hide_border=false"/>
 </div>
 
