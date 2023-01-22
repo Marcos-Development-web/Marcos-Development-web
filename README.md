@@ -1,7 +1,7 @@
 
 <h2 align="center"> About Me ?</h2>
 
- > Atualmente estou estudando HTML CSS JAVASCRIPT.
+ > Atualmente estou estudando HTML CSS JAVASCRIPT linguagens front end.
 
 <h2 align="center"> My Profile Stats! </h2>
 
